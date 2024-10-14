@@ -1,2 +1,2 @@
-# Template for Python / Jupyter notebook projects 
+# Streamlit app for Jackknife Quadrant
 
